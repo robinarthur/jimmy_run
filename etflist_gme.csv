@@ -1,0 +1,85 @@
+Ticker;Fund Name;Segment;% Allocation;Market Value;# Of Shares;30 Day;Strategy
+ESPO;VanEck Video Gaming And ESports ETF;Equity: Global Video Games & ESports;4.37%;$10.89M;434.00K;2.57%;Vanilla
+TXS;Texas Capital Texas Equity Index ETF;Equity: U.S. - Total Market;2.42%;$564.12K;22.48K;2.86%;Vanilla
+SFYF;SoFi Social 50 ETF;Equity: U.S. - Total Market;1.59%;$277.40K;11.06K;8.79%;Copycat
+ODDS;Pacer BlueStar Digital Entertainment ETF;Equity: Global Video Games & ESports;1.48%;$12.77K;509;-1.73%;Vanilla
+GAMR;Amplify Video Game Tech ETF;Equity: Global Video Games & ESports;1.41%;$560.94K;22.36K;1.25%;Vanilla
+XRT;SPDR S&P Retail ETF;Equity: U.S. Broadline Retail;1.18%;$5.38M;214.63K;0.41%;Equal
+BNGE;First Trust S-Network Streaming & Gaming ETF;Equity: Global Video Games & ESports;1.10%;$55.02K;2.19K;0.70%;Vanilla
+RETL;Direxion Daily Retail Bull 3X Shares;Leveraged Equity: U.S. Broadline Retail;0.91%;$361.15K;14.39K;-0.23%;Equal
+DARP;Grizzle Growth ETF;Equity: Global Broad Thematic;0.66%;$108.92K;4.34K;3.23%;Active
+MDYV;SPDR S&P 400 Mid Cap Value ETF;Equity: U.S. - Mid Cap Value;0.53%;$12.84M;511.93K;-1.72%;Value
+IJJ;IShares S&P Mid-Cap 400 Value ETF;Equity: U.S. - Mid Cap Value;0.53%;$39.10M;1.56M;-1.77%;Value
+IVOV;Vanguard S&P Mid-Cap 400 Value ETF;Equity: U.S. - Mid Cap Value;0.48%;$4.14M;178.93K;-1.74%;Value
+TMFX;Motley Fool Next Index ETF;Equity: U.S. - Extended Market;0.45%;$111.47K;4.44K;--;Copycat
+BKSE;BNY Mellon US Small Cap Core Equity ETF;Equity: U.S. - Small Cap;0.38%;$418.95K;16.70K;-1.62%;Vanilla
+STXK;Strive Small-Cap ETF;Equity: U.S. - Small Cap;0.37%;$170.19K;6.78K;-1.76%;Vanilla
+FNDA;Schwab Fundamental U.S. Small Company ETF;Equity: U.S. - Small Cap;0.33%;$26.89M;1.07M;-2.09%;Fundamental
+ISCV;IShares Morningstar Small Cap Value ETF;Equity: U.S. - Small Cap Value;0.30%;$1.19M;47.55K;-2.53%;Value
+XJH;IShares ESG Screened S&P Mid-Cap ETF;Equity: U.S. - Mid Cap;0.29%;$574.16K;22.88K;-2.00%;ESG
+BBMC;JPMorgan BetaBuilders U.S. Mid Cap Equity ETF;Equity: U.S. - Mid Cap;0.27%;$4.50M;179.33K;-1.92%;Vanilla
+SMDY;Syntax Stratified MidCap ETF;Equity: U.S. - Mid Cap;0.26%;$29.81K;1.19K;-0.68%;Equal
+SPMD;SPDR Portfolio S&P 400 Mid Cap ETF;Equity: U.S. - Mid Cap;0.25%;$25.49M;1.02M;-1.62%;Vanilla
+PTMC;Pacer Trendpilot U.S. Mid Cap ETF;Equity: U.S. - Mid Cap;0.25%;$1.01M;40.43K;-1.64%;Volatility Hedged
+IJH;IShares Core S&P Mid-Cap ETF;Equity: U.S. - Mid Cap;0.25%;$210.26M;8.38M;-1.66%;Vanilla
+MDY;SPDR S&P MidCap 400 ETF Trust;Equity: U.S. - Mid Cap;0.25%;$54.22M;2.16M;-1.66%;Vanilla
+IVOO;Vanguard S&P Mid-Cap 400 ETF;Equity: U.S. - Mid Cap;0.23%;$4.59M;198.45K;-1.64%;Vanilla
+ISCB;IShares Morningstar Small-Cap ETF;Equity: U.S. - Small Cap;0.22%;$476.33K;18.98K;-1.78%;Fundamental
+GINN;Goldman Sachs Innovate Equity ETF;Equity: Global Broad Thematic;0.21%;$736.62K;29.36K;0.90%;Equal
+RWK;Invesco S&P MidCap 400 Revenue ETF;Equity: U.S. - Mid Cap;0.20%;$1.58M;62.97K;-2.64%;Fundamental
+MIDU;Direxion Daily Mid Cap Bull 3X Shares;Leveraged Equity: U.S. - Mid Cap;0.20%;$166.70K;6.64K;-6.30%;Vanilla
+VBR;Vanguard Small-Cap Value ETF;Equity: U.S. - Small Cap Value;0.19%;$52.76M;2.28M;-2.41%;Value
+JMEE;JPMorgan Market Expansion Enhanced Equity ETF;Equity: U.S. - Extended Market;0.17%;$1.88M;75.08K;-1.85%;Active
+FDIS;Fidelity MSCI Consumer Discretionary Index ETF;Equity: U.S. Consumer Discretionary;0.17%;$2.44M;97.44K;4.11%;Vanilla
+SMLF;IShares US Small-Cap Equity Factor ETF;Equity: U.S. - Small Cap;0.17%;$1.79M;71.16K;-2.02%;Multi-Factor
+MVV;ProShares Ultra MidCap400;Leveraged Equity: U.S. - Mid Cap;0.17%;$265.10K;10.57K;-4.01%;Vanilla
+SCHM;Schwab U.S. Mid-Cap ETF;Equity: U.S. - Mid Cap;0.17%;$18.28M;728.63K;-2.13%;Vanilla
+VCR;Vanguard Consumer Discretionary ETF;Equity: U.S. Consumer Discretionary;0.16%;$8.78M;379.45K;4.15%;Vanilla
+IEDI;IShares U.S. Consumer Focused ETF;Equity: U.S. Consumer Discretionary;0.15%;$33.62K;1.34K;3.34%;Active
+ISCG;IShares Morningstar Small-Cap Growth ETF;Equity: U.S. - Small Cap Growth;0.15%;$810.08K;32.29K;-1.01%;Growth
+ESML;IShares ESG Aware MSCI USA Small-Cap ETF;Equity: U.S. - Small Cap;0.14%;$2.29M;91.19K;-2.00%;ESG
+UMDD;ProShares UltraPro MidCap400;Leveraged Equity: U.S. - Mid Cap;0.12%;$53.72K;2.14K;-6.32%;Vanilla
+IYC;IShares U.S. Consumer Discretionary ETF;Equity: U.S. Consumer Discretionary;0.12%;$1.10M;43.70K;3.83%;Vanilla
+SMMD;IShares Russell 2500 ETF;Equity: U.S. - Extended Market;0.11%;$1.06M;42.23K;-2.16%;Vanilla
+VB;Vanguard Small-Cap ETF;Equity: U.S. - Small Cap;0.11%;$58.65M;2.53M;-1.91%;Vanilla
+NXTI;Simplify Next Intangible Core Index ETF;Equity: U.S. - Total Market;0.10%;$2.61K;104;2.54%;Fundamental
+VXF;Vanguard Extended Market ETF;Equity: U.S. - Extended Market;0.09%;$16.98M;733.93K;-1.53%;Vanilla
+EQAL;Invesco Russell 1000 Equal Weight ETF;Equity: U.S. - Large Cap;0.09%;$512.74K;20.44K;-1.26%;Equal
+IWS;IShares Russell Mid-Cap Value ETF;Equity: U.S. - Mid Cap Value;0.09%;$12.17M;485.00K;-1.98%;Value
+CVMC;Calvert US Mid-Cap Core Responsible Index ETF;Equity: U.S. - Mid Cap;0.08%;$41.37K;1.65K;-2.01%;ESG
+IWR;IShares Russell Mid-Cap ETF;Equity: U.S. - Mid Cap;0.06%;$22.49M;896.29K;-1.51%;Vanilla
+HKND;Humankind U.S. Stock ETF;Equity: U.S. - Total Market;0.04%;$54.27K;2.16K;0.48%;ESG
+FMDE;Fidelity Enhanced Mid Cap ETF;Equity: U.S. - Mid Cap;0.04%;$615.65K;25.44K;-1.19%;Active
+IUSV;IShares Core S&P U.S. Value ETF;Equity: U.S. - Total Market Value;0.03%;$5.61M;223.46K;-0.48%;Value
+IWD;IShares Russell 1000 Value ETF;Equity: U.S. - Large Cap Value;0.03%;$17.49M;696.91K;-0.86%;Value
+GVUS;Goldman Sachs MarketBeta Russell 1000 Value Equity ETF;Equity: U.S. - Large Cap Value;0.03%;$160.17K;6.38K;-0.88%;Value
+SCHV;Schwab U.S. Large-Cap Value ETF;Equity: U.S. - Large Cap Value;0.03%;$3.29M;131.06K;-0.15%;Value
+VONV;Vanguard Russell 1000 Value ETF;Equity: U.S. - Large Cap Value;0.03%;$2.39M;103.29K;-0.83%;Value
+AVSU;Avantis Responsible U.S. Equity ETF;Equity: U.S. - Total Market;0.03%;$73.76K;2.94K;1.42%;Active
+DSI;IShares MSCI KLD 400 Social ETF;Equity: U.S. - Total Market;0.03%;$1.23M;49.15K;3.05%;ESG
+VLU;SPDR S&P 1500 Value Tilt ETF;Equity: U.S. - Total Market Value;0.02%;$81.37K;3.24K;0.30%;Value
+FNDB;Schwab Fundamental U.S. Broad Market ETF;Equity: U.S. - Total Market;0.02%;$175.33K;6.99K;0.57%;Fundamental
+PRF;Invesco FTSE RAFI U.S. 1000 ETF;Equity: U.S. - Large Cap;0.02%;$1.53M;61.17K;0.27%;Fundamental
+TILT;FlexShares Morningstar US Market Factor Tilt Index Fund;Equity: U.S. - Total Market;0.02%;$286.80K;11.43K;1.60%;Multi-Factor
+ESGV;Vanguard ESG U.S. Stock ETF;Equity: U.S. - Total Market;0.01%;$1.32M;54.53K;3.75%;ESG
+CVLC;Calvert US Large-Cap Core Responsible Index ETF;Equity: U.S. - Large Cap;0.01%;$47.24K;1.88K;2.91%;ESG
+SCHX;Schwab U.S. Large-Cap ETF;Equity: U.S. - Large Cap;0.01%;$5.97M;237.93K;3.17%;Vanilla
+SCHK;Schwab 1000 Index ETF;Equity: U.S. - Large Cap;0.01%;$486.39K;19.39K;3.10%;Vanilla
+GUSA;Goldman Sachs MarketBeta US 1000 Equity ETF;Equity: U.S. - Large Cap;0.01%;$225.73K;9.00K;2.87%;Vanilla
+IWB;IShares Russell 1000 ETF;Equity: U.S. - Large Cap;0.01%;$4.99M;198.79K;3.10%;Vanilla
+IYY;IShares Dow Jones U.S. ETF;Equity: U.S. - Total Market;0.01%;$261.26K;10.41K;3.05%;Vanilla
+STXG;Strive 1000 Growth ETF;Equity: U.S. - Large Cap Growth;0.01%;$10.61K;423;4.58%;Growth
+ITOT;IShares Core S&P Total U.S. Stock Market ETF;Equity: U.S. - Total Market;0.01%;$7.44M;296.45K;2.89%;Vanilla
+VONE;Vanguard Russell 1000 ETF;Equity: U.S. - Large Cap;0.01%;$612.72K;26.48K;3.13%;Vanilla
+SCHB;Schwab U.S. Broad Market ETF;Equity: U.S. - Total Market;0.01%;$3.75M;149.40K;2.97%;Vanilla
+IWV;IShares Russell 3000 ETF;Equity: U.S. - Total Market;0.01%;$1.82M;72.35K;2.87%;Vanilla
+STXV;Strive 1000 Value ETF;Equity: U.S. - Large Cap Value;0.01%;$5.72K;228;-0.52%;Value
+VTHR;Vanguard Russell 3000 ETF;Equity: U.S. - Total Market;0.01%;$293.82K;12.70K;2.84%;Vanilla
+VTI;Vanguard Total Stock Market ETF;Equity: U.S. - Total Market;0.01%;$46.45M;2.01M;2.87%;Vanilla
+SPTM;SPDR Portfolio S&P 1500 Composite Stock Market ETF;Equity: U.S. - Total Market;0.01%;$1.01M;40.30K;3.11%;Vanilla
+VT;Vanguard Total World Stock ETF;Equity: Global - Total Market;0.01%;$2.77M;119.55K;1.25%;Vanilla
+AVLC;Avantis US Large Cap Equity ETF;Equity: U.S. - Large Cap;0.01%;$22.36K;891;2.15%;Active
+SPGM;SPDR Portfolio MSCI Global Stock Market ETF;Equity: Global - Total Market;0.01%;$51.59K;2.06K;1.52%;Vanilla
+KRUZ;Unusual Whales Subversive Republican Trading ETF;Equity: Global - Total Market;0.00%;$827.97;33;0.17%;Active
+MMTM;SPDR S&P 1500 Momentum Tilt ETF;Equity: U.S. - Total Market;0.00%;$2.16K;86;4.21%;Momentum
+AVUS;Avantis U.S. Equity ETF;Equity: U.S. - Total Market;0.00%;$29.51K;1.18K;1.41%;Active
